@@ -1,13 +1,13 @@
-#🔌 Main Components
+🔌 Main Components
 Arduino Nano ESP32
 2–3x DHT22 (ambient, fridge, freezer)
 OLED SSD1306 (I2C)
 Active Buzzer
-#🔋 Power Supply
+🔋 Power Supply
 TP4056
 MT3608
 18650 Li-ion battery
-#🔩 Additional Components
+🔩 Additional Components
 10kΩ resistor (for DHT22)
 Jumper wires
 Breadboard or PCB
